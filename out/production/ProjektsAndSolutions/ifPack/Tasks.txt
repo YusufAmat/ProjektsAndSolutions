@@ -1,0 +1,17 @@
+The user name (username) will be defined as "tester" and
+ the password (password) will be defined as "1234" in the program.
+Receiving user name and password data from the user;
+
+1. If the username is incorrect, "you are not registered in the system." will print.
+2. If the password is incorrect "Your password is incorrect" "Would you like to reset your password?" he will ask.
+3. If the user wants to reset, check that the password he entered should not be the same as the old password he forgot,
+and if the passwords are the same, the screen "Could not create password, please enter another password."
+will give a warning
+4. If there is no problem, " Password created." will write.
+
+write a program.
+
+1. Kullanıcı adı yanlış ise "sistemde kayıtlı değilsiniz." yazdıracak.
+2. Parola yanlış ise "Parolanız yanlış" "Şifrenizi sıfırlamak ister misiniz?" diye soracak.
+3. Kullanıcı sıfırlamak isterse, girdiği şifrenin unuttuğu eski şifre ile aynı olmaması gerektiğini kontrol edip , şifreler aynı ise ekrana "Şifre oluşturulamadı, lütfen başka şifre giriniz." uyarısı verecek
+4. Sorun yoksa " Şifre oluşturuldu." yazacak.
