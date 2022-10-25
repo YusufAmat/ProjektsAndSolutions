@@ -2,7 +2,7 @@ package ifPack;
 
 import java.util.Scanner;
 
-public class IfExample02 {
+public class IfExample002 {
     public static void main(String[] args) {
         //         TODO 2: Taksimetre Programı: Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran
         //          programı yazın.

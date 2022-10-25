@@ -1,9 +1,8 @@
 package ifPack;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class IfExample04 {
+public class IfExample004 {
     //TODO : read tasks.txt
 
     public static void main(String[] args) {

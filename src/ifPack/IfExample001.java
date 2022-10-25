@@ -2,7 +2,7 @@ package ifPack;
 
 import java.util.Scanner;
 
-public class IfExample01 {
+public class IfExample001 {
     public static void main(String[] args) {
         //        TODO 1: Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran
         //         programı yazın. Not: Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 , tutar 1000 TL'den büyük
