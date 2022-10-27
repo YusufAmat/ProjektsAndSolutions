@@ -6,7 +6,6 @@ public class Task1 {
     public static void main(String[] args) {
         //TODO  Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan
         // ve bu sayıları ekrana yazan programı yazın.
-        // 5 10 25 45 50 ; max 50 min 5
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("Sayi adedini giriniz : ");
